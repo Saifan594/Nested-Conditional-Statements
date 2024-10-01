@@ -1,4 +1,4 @@
-print("\033c")
+print ( "\033c" )
 
 # initializing variables
 age = input ( "enter your age : " )
